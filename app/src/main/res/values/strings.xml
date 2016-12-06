@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MySqliteDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="info_name">姓名:</string>
+    <string name="info_age">年龄:</string>
+    <string name="info_weibo">微博:</string>
+    <string name="info_website">博客:</string>
+
+    <string name="opr_all">查看数据库</string>
+    <string name="opr_add">增加会员</string>
+    <string name="opr_del">删除会员(通过姓名)</string>
+    <string name="opr_update">更新会员(通过姓名)</string>
+    <string name="opr_search">查找会员(通过姓名)</string>
+    <string name="opr_clear">清空数据库</string>
+</resources>
